@@ -38,3 +38,6 @@ The workbook contains the prepared data, analysis, Pivot Tables, and final dashb
 * Pivot Tables
 * Excel dashboard development
 * Working with data from multiple sheets
+
+
+!(image/1.png)
