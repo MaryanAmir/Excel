@@ -40,4 +40,4 @@ The workbook contains the prepared data, analysis, Pivot Tables, and final dashb
 * Working with data from multiple sheets
 
 
-![img](image/1.png)
+![img](images/1.png)
